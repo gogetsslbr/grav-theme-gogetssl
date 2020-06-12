@@ -1,0 +1,18 @@
+name: Gogetssl
+slug: gogetssl
+type: theme
+version: 0.1.0
+description: GoGetSSL Grav Theme
+icon: rebel
+author:
+  name: Andre Bellafronte
+  email: andre@eunarede.com
+homepage: https://github.com/gogetsslbr/grav-theme-gogetssl
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/gogetsslbr/grav-theme-gogetssl/issues
+readme: https://github.com/gogetsslbr/grav-theme-gogetssl/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }

@@ -1,0 +1,14 @@
+#body-wrapper {
+  max-width: 70%;
+  margin: auto;
+}
+
+body{
+  background-image: url(../../../../images/bk.png);
+}
+
+#header-fixed {
+  max-width: 70%;
+  margin: auto;
+  background-color: black;
+}

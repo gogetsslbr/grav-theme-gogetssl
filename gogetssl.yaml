@@ -6,3 +6,10 @@ streams:
        '':
          - user/themes/gogetssl
          - user/themes/quark
+header-dark: true;
+custom_logo:
+  user/themes/gogetssl/images/logo/logo.png:
+    name: logo.png
+    type: image/png
+    size: 3873
+    path: user/themes/gogetssl/images/logo/logo.png
